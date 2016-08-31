@@ -7,6 +7,8 @@ import android.view.View;
 
 import com.gigamole.sample.screens.ViewPagerActivity;
 
+import cn.qqtheme.androidpicker.PickerActivity;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,6 +21,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(MainActivity.this, ViewPagerActivity.class));
+            }
+        });
+        findViewById(R.id.btn_picker).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, PickerActivity.class));
             }
         });
     }
