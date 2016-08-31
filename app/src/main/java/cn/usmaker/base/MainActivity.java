@@ -7,6 +7,7 @@ import android.view.View;
 
 import com.gigamole.sample.screens.ViewPagerActivity;
 
+import cn.finalteam.galleryfinal.sample.GalleryFinalActivity;
 import cn.qqtheme.androidpicker.PickerActivity;
 
 
@@ -27,6 +28,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(MainActivity.this, PickerActivity.class));
+            }
+        });
+        findViewById(R.id.btn_gallery).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, GalleryFinalActivity.class));
             }
         });
     }

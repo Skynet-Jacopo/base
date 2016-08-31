@@ -17,6 +17,11 @@
         android:text="选择器(Picker)"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btn_gallery"
+        android:text="照片选择编辑器(GalleryFinal)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
     <TextView
         android:textSize="24sp"
         android:layout_width="wrap_content"

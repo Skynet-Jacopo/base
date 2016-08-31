@@ -22,15 +22,19 @@ public class HorizontalPagerAdapter extends PagerAdapter {
     private final Utils.LibraryObject[] LIBRARIES = new Utils.LibraryObject[]{
             new Utils.LibraryObject(
                     "https://github.com/DevLight-Mobile-Agency/NavigationTabBar",
-                    "https://lh4.googleusercontent.com/-mF70XCnMpgk/V1NnK34tnhI/AAAAAAAACkY/z0Z15Q_7gg4fMovWiEvo9agJgz7m933cQCL0B/w323-h552-no/btbntb.gif"
+                    "http://love.doghouse.com.tw/image/wallpaper/011102/bf1554.jpg"
+//                    "https://lh4.googleusercontent.com/-mF70XCnMpgk/V1NnK34tnhI/AAAAAAAACkY/z0Z15Q_7gg4fMovWiEvo9agJgz7m933cQCL0B/w323-h552-no/btbntb.gif"
             ),
             new Utils.LibraryObject(
                     "https://github.com/DevLight-Mobile-Agency/NavigationTabStrip",
-                    "https://lh6.googleusercontent.com/-wpGnxe1Vefc/VziiygaS9WI/AAAAAAAACd4/c4fU_EG-DHkoby1SIbI5BDtqITpGiZZhwCL0B/w326-h551-no/nts.gif"
+                    "http://image.tianjimedia.com/uploadImages/2012/231/00/0588TRI5TMQS.jpg"
+//                    "https://lh6.googleusercontent.com/-wpGnxe1Vefc/VziiygaS9WI/AAAAAAAACd4/c4fU_EG-DHkoby1SIbI5BDtqITpGiZZhwCL0B/w326-h551-no/nts.gif"
             ),
             new Utils.LibraryObject(
                     "https://github.com/DevLight-Mobile-Agency/ShadowLayout",
-                    "https://lh4.googleusercontent.com/-2JB-2cEv8lk/Vx4FmHQhjOI/AAAAAAAACTA/nrRGFjcQXBsGiISYSZ5k8gUsVcRw5GSRQCL0B/w349-h552-no/sl.png"
+                    "http://image.tianjimedia.com/uploadImages/2012/228/46/IZ124LVX8814.jpg"
+
+//                    "https://lh4.googleusercontent.com/-2JB-2cEv8lk/Vx4FmHQhjOI/AAAAAAAACTA/nrRGFjcQXBsGiISYSZ5k8gUsVcRw5GSRQCL0B/w349-h552-no/sl.png"
             )
     };
 
@@ -38,24 +42,36 @@ public class HorizontalPagerAdapter extends PagerAdapter {
             new Utils.LibraryObject(
                     "https://github.com/DevLight-Mobile-Agency/AnimateFilterCalendarGridLayout",
                     new String[]{
-                            "https://lh6.googleusercontent.com/-OMVt5Ow2tsE/VsbvbmJOouI/AAAAAAAACLs/aQoAzX5hGYw/w386-h551-no/afgl.gif",
-                            "https://lh4.googleusercontent.com/-dXoUnGjGLHE/VsbvbtehV3I/AAAAAAAACLs/EqYB6AA5fYI/w396-h552-no/acgl.gif"
+                            "http://image.tianjimedia.com/uploadImages/2012/228/46/IZ124LVX8814" +
+                                    ".jpg",
+                            "http://image.tianjimedia.com/uploadImages/2012/231/00/0588TRI5TMQS.jpg"
+//                            "https://lh6.googleusercontent.com/-OMVt5Ow2tsE/VsbvbmJOouI/AAAAAAAACLs/aQoAzX5hGYw/w386-h551-no/afgl.gif",
+//                            "https://lh4.googleusercontent.com/-dXoUnGjGLHE/VsbvbtehV3I/AAAAAAAACLs/EqYB6AA5fYI/w396-h552-no/acgl.gif"
                     }
             ),
             new Utils.LibraryObject(
                     "https://github.com/DevLight-Mobile-Agency/SlideImageView",
                     new String[]{
-                            "https://lh5.googleusercontent.com/-2BiBFz-OW_s/VU_EPv33XMI/AAAAAAAAAcc/nGie_kBoZQ8/w244-h368-no/siv.gif"
+//                            "http://image.tianjimedia.com/uploadImages/2012/228/46/IZ124LVX8814.jpg",
+                            "http://image.tianjimedia.com/uploadImages/2012/231/00/0588TRI5TMQS.jpg"
+//                            "https://lh5.googleusercontent.com/-2BiBFz-OW_s/VU_EPv33XMI/AAAAAAAAAcc/nGie_kBoZQ8/w244-h368-no/siv.gif"
                     }
             ),
             new Utils.LibraryObject(
                     "https://github.com/DevLight-Mobile-Agency/MillSpinners",
                     new String[]{
-                            "https://lh3.googleusercontent.com/-xmtjZYfrZ3g/VR-7WR2tQ1I/AAAAAAAAAZs/YzLSSYPukYE/s0/multi_arc_spinner.gif",
-                            "https://lh5.googleusercontent.com/-PaQXf0zlY5E/VU00AZvffaI/AAAAAAAAAa4/VH36UhvzXl4/w153-h165-no/cws.gif",
-                            "https://lh4.googleusercontent.com/-ysG5WmZKG0w/VU00Ao5_MDI/AAAAAAAAAa0/bYf3v90XpcA/w144-h146-no/cs.gif",
-                            "https://lh5.googleusercontent.com/-X61M2jmXkTs/VU00AdyLk9I/AAAAAAAAAbI/4BKr42uJ4Vc/w170-h261-no/dls.gif",
-                            "https://lh5.googleusercontent.com/-b8PfdN9PoLw/VU00BPNG2cI/AAAAAAAAAbE/AXDZuOMEb5k/w175-h262-no/fs.gif"
+                            "http://image.tianjimedia.com/uploadImages/2012/228/46/IZ124LVX8814" +
+                                    ".jpg",
+                            "http://image.tianjimedia.com/uploadImages/2012/231/00/0588TRI5TMQS" +
+                                    ".jpg",
+                            "http://image.tianjimedia.com/uploadImages/2012/228/46/IZ124LVX8814" +
+                                    ".jpg",
+                            "http://image.tianjimedia.com/uploadImages/2012/231/00/0588TRI5TMQS.jpg"
+//                            "https://lh3.googleusercontent.com/-xmtjZYfrZ3g/VR-7WR2tQ1I/AAAAAAAAAZs/YzLSSYPukYE/s0/multi_arc_spinner.gif",
+//                            "https://lh5.googleusercontent.com/-PaQXf0zlY5E/VU00AZvffaI/AAAAAAAAAa4/VH36UhvzXl4/w153-h165-no/cws.gif",
+//                            "https://lh4.googleusercontent.com/-ysG5WmZKG0w/VU00Ao5_MDI/AAAAAAAAAa0/bYf3v90XpcA/w144-h146-no/cs.gif",
+//                            "https://lh5.googleusercontent.com/-X61M2jmXkTs/VU00AdyLk9I/AAAAAAAAAbI/4BKr42uJ4Vc/w170-h261-no/dls.gif",
+//                            "https://lh5.googleusercontent.com/-b8PfdN9PoLw/VU00BPNG2cI/AAAAAAAAAbE/AXDZuOMEb5k/w175-h262-no/fs.gif"
                     }
             )
     };
